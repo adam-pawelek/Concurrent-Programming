@@ -1,0 +1,12 @@
+﻿  Home Assignment 10.cpp
+C:\MyProjects\concurrent-programming\Home Assignment 10\Home Assignment 10\Home Assignment 10.cpp(179,15): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\MyProjects\concurrent-programming\Home Assignment 10\Home Assignment 10\Home Assignment 10.cpp(223,15): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Home Assignment 10.vcxproj -> C:\MyProjects\concurrent-programming\Home Assignment 10\Debug\Home Assignment 10.exe

@@ -1,0 +1,13 @@
+﻿  home-assignment-06.cpp
+C:\MyProjects\concurrent-programming\home-assignment-06\home-assignment-06\home-assignment-06.cpp(121,33): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+C:\MyProjects\concurrent-programming\home-assignment-06\home-assignment-06\home-assignment-06.cpp(143,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\MyProjects\concurrent-programming\home-assignment-06\home-assignment-06\home-assignment-06.cpp(197,20): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\MyProjects\concurrent-programming\home-assignment-06\home-assignment-06\home-assignment-06.cpp(199,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\MyProjects\concurrent-programming\home-assignment-06\home-assignment-06\home-assignment-06.cpp(215,20): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\MyProjects\concurrent-programming\home-assignment-06\home-assignment-06\home-assignment-06.cpp(217,21): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\MyProjects\concurrent-programming\home-assignment-06\home-assignment-06\home-assignment-06.cpp(291,2): warning C4834: discarding return value of function with 'nodiscard' attribute
+  home-assignment-06.vcxproj -> C:\MyProjects\concurrent-programming\home-assignment-06\Debug\home-assignment-06.exe

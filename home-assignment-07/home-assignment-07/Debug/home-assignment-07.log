@@ -1,0 +1,5 @@
+﻿  home-assignment-07.cpp
+C:\MyProjects\concurrent-programming\home-assignment-07\home-assignment-07\home-assignment-07.cpp(69,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\MyProjects\concurrent-programming\home-assignment-07\home-assignment-07\home-assignment-07.cpp(337,20): warning C4018: '<': signed/unsigned mismatch
+C:\MyProjects\concurrent-programming\home-assignment-07\home-assignment-07\home-assignment-07.cpp(331,6): warning C4101: 'ale': unreferenced local variable
+  home-assignment-07.vcxproj -> C:\MyProjects\concurrent-programming\home-assignment-07\Debug\home-assignment-07.exe

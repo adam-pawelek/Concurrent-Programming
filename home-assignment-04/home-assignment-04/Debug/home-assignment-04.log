@@ -1,0 +1,3 @@
+﻿  home-assignment-04.cpp
+C:\MyProjects\concurrent-programming\home-assignment-04\home-assignment-04\home-assignment-04.cpp(111,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  home-assignment-04.vcxproj -> C:\MyProjects\concurrent-programming\home-assignment-04\Debug\home-assignment-04.exe

@@ -1,0 +1,15 @@
+﻿  home-assignment-08.cpp
+C:\MyProjects\concurrent-programming\home-assignment-08\home-assignment-08\home-assignment-08\home-assignment-08.cpp(155,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\MyProjects\concurrent-programming\home-assignment-08\home-assignment-08\home-assignment-08\home-assignment-08.cpp(211,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\MyProjects\concurrent-programming\home-assignment-08\home-assignment-08\home-assignment-08\home-assignment-08.cpp(263,71): warning C4244: 'return': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\MyProjects\concurrent-programming\home-assignment-08\home-assignment-08\home-assignment-08\home-assignment-08.cpp(343,71): warning C4244: 'return': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\MyProjects\concurrent-programming\home-assignment-08\home-assignment-08\home-assignment-08\home-assignment-08.cpp(371,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  home-assignment-08.vcxproj -> C:\MyProjects\concurrent-programming\home-assignment-08\home-assignment-08\Debug\home-assignment-08.exe
